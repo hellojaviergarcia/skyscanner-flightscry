@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Flightscry" parent="BpkTheme">
+        <item name="colorPrimary">@color/bpkSkyBlue</item>
+        <item name="colorPrimaryDark">@color/bpkSkyBlueDark</item>
+        <item name="colorAccent">@color/bpkSkyBlue</item>
+        <item name="android:windowBackground">@color/bpkSkyGrayTint06</item>
+    </style>
+</resources>

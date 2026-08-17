@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Flightscry</string>
+
+    <!-- Flight header -->
+    <string name="airline">British Airways</string>
+    <string name="flight_number">BA 0115</string>
+    <string name="status_on_time">On time</string>
+    <string name="origin_iata">LHR</string>
+    <string name="origin_city">London</string>
+    <string name="destination_iata">JFK</string>
+    <string name="destination_city">New York</string>
+    <string name="duration">10h 35m · Non-stop</string>
+    <string name="departure_time">Dep 09:25</string>
+    <string name="arrival_time">Arr 12:00</string>
+
+    <!-- Seat -->
+    <string name="seat_number">14A</string>
+    <string name="seat_class">Window · Economy</string>
+
+    <!-- Section labels -->
+    <string name="section_passenger">Passenger</string>
+    <string name="section_gate">Gate &amp; terminal</string>
+    <string name="section_baggage">Baggage</string>
+
+    <!-- Detail row labels -->
+    <string name="label_name">Name</string>
+    <string name="label_passport">Passport</string>
+    <string name="label_checkin">Check-in</string>
+    <string name="value_checkin">Complete</string>
+    <string name="label_terminal">Terminal</string>
+    <string name="label_gate">Gate</string>
+    <string name="label_boarding">Boarding</string>
+    <string name="label_cabin">Cabin bag</string>
+    <string name="label_checked">Checked bag</string>
+
+    <!-- Accordion -->
+    <string name="accordion_meal_title">Meal preference</string>
+    <string name="accordion_meal_body">Vegetarian (VLML) · Pre-ordered. Served approx. 2h after departure and 1h before arrival.</string>
+    <string name="accordion_connections_title">Connecting flights</string>
+    <string name="accordion_connections_body">No connections — this is a direct flight. You will land at JFK Terminal 7.</string>
+    <string name="accordion_booking_title">Booking details</string>
+    <string name="accordion_booking_body">Booking ref: XQ4TRP\nTicket: 125-4421908773\nFare class: V (Economy Flex)\nBooked via Skyscanner · 3 Aug 2026</string>
+</resources>
